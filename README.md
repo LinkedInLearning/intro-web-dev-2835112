@@ -1,62 +1,23 @@
-# [DE-Kursname hier eintragen]
+# Webdesign und Webprogrammierung - Grundlagen
 
-Dies ist das Repository für den **LinkedIn Learning** Kurs `[COURSENAME]`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+Dies ist das Repository für den **LinkedIn Learning** Kurs `Webdesign und Webprogrammierung - Grundlagen`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
 ![COURSENAME][lil-thumbnail-url] 
 
-[Marketing Paragraph for Codespaces - without Codespaces: _remove all 3 pragraphs_ - with Codespace: _keep the right paragraph_ for the right course type (1 of 3)]
-
-[Practice It: X | All Other [Project Mojo] Courses]
-
-Dieser Kurs ist in GitHub Codespaces integriert, eine sofort verfügbare Cloud-Entwicklungsumgebung, die alle Funktionen Ihrer bevorzugten IDE bietet, ohne dass Sie einen lokalen Rechner einrichten müssen. Mit Codespaces können Sie von jedem Rechner aus und zu jeder Zeit praktische Übungen durchführen - und dabei ein Tool verwenden, das Ihnen häufig in der Praxis begegnen wird. Sehen Sie sich das Video "Wie verwende ich GitHub Codespaces mit diesem Kurs?" an, um zu erfahren, wie Sie anfangen können.  
-
-[Hands-On Introduction to X]
-
-Der beste Weg, eine Programmiersprache zu lernen, ist, sie in der Praxis anzuwenden. Deshalb ist dieser Kurs in GitHub Codespaces integriert, eine sofort verfügbare Cloud-Entwicklungsumgebung, die alle Funktionen Ihrer bevorzugten IDE bietet, ohne dass Sie einen lokalen Rechner einrichten müssen. Mit Codespaces können Sie von jedem Rechner aus und zu jeder Zeit praktische Übungen durchführen - und dabei ein Tool verwenden, das Ihnen häufig in der Praxis begegnen wird. Sehen Sie sich das Video " Wie verwende ich GitHub Codespaces mit diesem Kurs?" an, um zu erfahren, wie Sie anfangen können.  
-
-[Level Up (previously Code Challenges)] 
-
 Dieser Kurs ist in GitHub Codespaces integriert, eine sofort verfügbare Cloud-Entwicklungsumgebung, die alle Funktionen Ihrer bevorzugten IDE bietet, ohne dass Sie einen lokalen Rechner einrichten müssen. Mit Codespaces können Sie von jedem Rechner aus und zu jeder Zeit praktische Übungen durchführen - und dabei ein Tool verwenden, das Ihnen häufig in der Praxis begegnen wird. 
-Jede Folge der Code-Challenges-Serie bietet mindestens 12 praktische Übungen in verschiedenen Schwierigkeitsgraden, so dass Sie sich selbst herausfordern und das Gelernte festigen können. Schauen Sie sich das Video " Wie verwende ich GitHub Codespaces mit diesem Kurs?" an, um zu erfahren, wie man einen Codespace einrichtet und zum Einsatz bringt. 
 
-[COURSEDESCRIPTION]
 
-## Anleitung
+Tauchen Sie ein in die Vielfalt von Webdesign und -entwicklung und lernen Sie die wichtigsten Technologien, Programmiersprachen und Werkzeuge kennen. Dieses Video-Training setzt keine Grundkenntnisse voraus und verwandelt Online-Konsument:innen Schritt für Schritt zu Webseitengestalter:innen. Florence Maurice deckt alle Aspekte ab, die zu einer erfolgreichen Website beitragen, und gibt Ihnen die Möglichkeit, Ihre Interessen zu erkunden und zu entscheiden, welche Bereiche Sie vertiefen möchten.<br><br>
 
-Dieses Repository hat Branches für jedes Video im Kurs. Verwenden Sie das Ausklappmenü "Branch: ..." in GitHub um zwischen den unterschiedlichen Branches hin und her zu wechseln bzw. um bei einem spezifischen Status einzusteigen. Oder Sie fügen `/tree/BRANCH_NAME` der URL hinzu um direkt in den gewünschten Branch zu wechseln.
+Mit Hilfe von Challenge/Solution-Einheiten am Ende der Kapitel können Sie das Erlernte immer wieder ausprobieren und Ihre Lösungen mit der Ihrer Trainerin vergleichen.
 
-## Branches
+## Autorin
+**Florence Maurice**
 
-Die Git Branches sind passend zu den Videos im Kurs strukturiert. Die Namenskonvention lautet `Kapitel#_Video#`. Der Branch `02_03` beinhaltet zum Beispiel die Übungen für das dritte Video im zweiten Kapitel. 
-Einige Branches haben einen Anfangsstatus (`b`) für "beginning" und einen Endstatus (`e`). Der Branch mit dem `e` am Ende beinhaltet in diesem Fall stets den Code der am Ende des Videos zu sehen ist. Der `master` Branch beinhaltet den initialen Quellcode und wird nicht für die Übungen innerhalb des Kurses genutzt.
+_Autorin und Trainerin_
 
-Wenn Sie von einem Branch nach Änderungen zum nächsten Branch wechseln, erhalten Sie möglicherweise die folgende Meldung:
-
-```
-error: Your local changes to the following files would be overwritten by checkout:        [files]
-Please commit your changes or stash them before you switch branches.
-Aborting
-```
-
-Dieses Problem lösen Sie wie folgt:
-    Add changes to git using this command: git add .
-    Commit changes using this command: git commit -m "some message"
-
-## Installation
-
-1. Um diese Übungsdateien nutzen zu können, müssen Sie folgendes installiert haben:
-   - [list of requirements for course]
-2. Klonen Sie das Repository in Ihre lokale Maschine unter Verwendung von terminal (Mac), CMD (Windows) oder ein anderes Werkzeug mit grafischer Bedienoberfläche wie SourceTree.
-3. [Course-specific instructions]
-
-### Autor
-
-**[Name hier eintragen]**
-
-_[Berufsbezeichnung hier eintragen]_
-
-Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/name_des_autors) an.
+Sehen Sie sich andere Kurse der Autorin auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/florence-maurice) an.
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/webdesign-und-webprogrammierung-grundlagen-22859480
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHzsXFsFTa7Dw/learning-public-crop_675_1200/0/1695191323687?e=2147483647&v=beta&t=qkYyZRvKEM-gHmpN-r2FPWyTu6JlpKbNcoBq9HU7Szc
