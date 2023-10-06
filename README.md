@@ -20,4 +20,4 @@ Sehen Sie sich andere Kurse der Autorin auf [LinkedIn Learning](https://www.link
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/webdesign-und-webprogrammierung-grundlagen-22859480
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHzsXFsFTa7Dw/learning-public-crop_675_1200/0/1695191323687?e=2147483647&v=beta&t=qkYyZRvKEM-gHmpN-r2FPWyTu6JlpKbNcoBq9HU7Szc
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQG8VlQ2HfnICQ/learning-public-crop_675_1200/0/1696585317110?e=2147483647&v=beta&t=35k7jrLvEoGMMhVSBv-vUenUo789O6zLIZie2htq6zU
